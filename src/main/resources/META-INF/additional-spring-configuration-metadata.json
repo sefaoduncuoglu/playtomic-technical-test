@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "spring.logging.level.org.hibernate.SQL",
+      "type": "java.lang.String",
+      "description": "Description for spring.logging.level.org.hibernate.SQL."
+    },
+    {
+      "name": "stripe.simulator.charges-uri",
+      "type": "java.lang.String",
+      "description": "Description for stripe.simulator.charges-uri."
+    },
+    {
+      "name": "spring.logging.level.root",
+      "type": "java.lang.String",
+      "description": "Description for spring.logging.level.root."
+    },
+    {
+      "name": "spring.jpa.defer-datasource-initialization",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.defer-datasource-initialization."
+    }
+  ] }
